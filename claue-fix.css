@@ -3,3 +3,11 @@
     max-width: 150px !important;
   } 
 }
+
+.mgs-checkout-step-sidebar .order-summary {
+ margin-bottom: 40px !important;
+}
+
+#mgs-oscheckout-place-order-area {
+ margin-bottom: 100px;
+}
